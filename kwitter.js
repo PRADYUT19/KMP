@@ -5,6 +5,6 @@ function addUser() {
 
   localStorage.setItem("user_name", user_name);
   
-    window.location = "";
+    window.location = "https://pradyut19.github.io/KRP/kwitter_room.html";
 }
 
